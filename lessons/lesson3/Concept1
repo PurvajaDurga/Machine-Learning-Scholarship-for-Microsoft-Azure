@@ -1,0 +1,6 @@
+Data wrangling is the process of cleaning and transforming data to make it more appropriate for data analysis. The process generally follows these main steps:
+
+Explore the raw data and check the general quality of the dataset.
+Transform the raw data, by restructuring, normalizing, and cleaning the data. For example, this could involve handling missing values and detecting errors.
+Validate and publish the data.
+Data wrangling is an iterative process where you do some data transformation then check the results and come back to the process to make improvements.
