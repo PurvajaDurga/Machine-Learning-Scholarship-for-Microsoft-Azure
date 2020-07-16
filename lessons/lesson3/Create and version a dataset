@@ -1,0 +1,8 @@
+In this lab, They used a subset of NYC Taxi & Limousine Commission - green taxi trip records available from Azure Open Datasets to show how you can register and 
+version a Dataset using the AML designer interface.
+In the first exercises we used a modified version of the original CSV file, which includes collected records for five months (January till May). 
+The second exercise demonstrates how we can create a new version of the initial dataset when new data is collected (in this case, we included records collected 
+in June in the CSV file).
+
+Note:
+Only one dataset but we can update different versions.
