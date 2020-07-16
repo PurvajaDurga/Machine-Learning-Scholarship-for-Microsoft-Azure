@@ -1,0 +1,14 @@
+Before training a model, we first need to handle data preparation, so we'll explore this topic first. More specifically, we will go over:
+
+Data importing and transformation
+The data management process, including:
+The use of datastores and datasets
+Versioning
+Feature engineering
+How to monitor for data drift
+Next, we will introduce the basics of model training. We'll cover:
+
+The core model training process
+Two of the fundamental machine learning models: Classifier and regressor
+The model evaluation process and relevant metrics
+And finally, we'll conclude with an introduction to ensemble learning and automated machine learning, two core techniques used to make decisions based on multiple—rather than single—trained models.
