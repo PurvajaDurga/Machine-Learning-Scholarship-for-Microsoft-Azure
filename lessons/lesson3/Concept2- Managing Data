@@ -1,0 +1,13 @@
+# The steps of the data access workflow are:
+
+Create a datastore so that you can access storage services in Azure.
+Create a dataset, which you will subsequently use for model training in your machine learning experiment.
+Create a dataset monitor to detect issues in the data, such as data drift.
+
+
+# Key points to remember about datasets:
+
+They are used to interact with your data in the datastore and to package data into consumable objects.
+They can be created from local files, public URLs, Azure Open Datasets, and files uploaded to the datastores.
+They are not copies of the data but references that point to the original data. This means that no extra storage cost is incurred when you create a new dataset.
+Once a dataset is registered in Azure ML workspace, you can share it and reuse it across various other experiments without data ingestion complexities.
