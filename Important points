@@ -1,0 +1,17 @@
+
+Topics Covered: Lesson 2.1-2.8
+A brief summary of main takeaway from each topic is as follows:
+2.1-  Overview of Lesson 2, mentions the topics that are going to be covered in lesson 2
+2.2-  Machine learning is a data science technique used to extract patterns from data, allowing computers to identify related data, and
+forecast future outcomes, behaviors, and trends. ML is different from traditional programming in a way that in traditional programming we supply the program with input data, 
+rules and get the answers as output while in ML we provide input data, answers and get rules in return
+2.3-  Machine Learning has vast applications ranging from healthcare, finance, manufacturing, retail to government and education
+2.4-  Machine Learning is not a new field, rather it has been there for decades. The recent advances in compute capabilities has allowed wide implementation of this field.
+ Deep Learning ⊆ Machine Learning ⊆ Artificial Intelligence
+2.5-  Data Science Process typically undergoes following phases:
+ Collect Data -> Prepare Data -> Train Model -> Evaluate Model -> Deploy Model
+2.6- There can be different types of raw input data in a data science process like Numbers, Text, Images, Videos but every type of data is converted into Numerical
+form before being supplied to ML Algorithm
+2.7-  Most common type of data we’ll encounter in a data science process is tabular data composed of rows and columns
+2.8-  Scaling data means transforming it so that the values fit within some range or scale. Scaling of data is necessary before feeding it to ML algorithm for
+efficiency purposes. Standardization and Normalization are the types of Scaling
