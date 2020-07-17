@@ -17,3 +17,6 @@ Training set 1: feature set A only
 Training set 2: feature sets A+B
 For the model, we are using regression because the number of rentals (the label column) contains continuos real numbers. As the algorithm for the experiment,
 we will be using the Boosted Decision Tree Regression.
+
+Conclusion:
+We can evaluate the performance of datasets with and without feature selection ,Eg: the mean value error is higher for score model1 than score model2 (feature selection)
