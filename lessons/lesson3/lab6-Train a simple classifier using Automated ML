@@ -1,0 +1,22 @@
+Automated machine learning picks an algorithm and hyperparameters for you and generates a model ready for deployment. 
+There are several options that you can use to configure automated machine learning experiments.
+
+Configuration options available in automated machine learning:
+
+Select your experiment type: Classification, Regression or Time Series Forecasting
+Data source, formats, and fetch data
+Choose your compute target
+Automated machine learning experiment settings
+Run an automated machine learning experiment
+Explore model metrics
+Register and deploy model
+You can create and run automated machine learning experiments in code using the Azure ML Python SDK or if you prefer a no code experience,\
+you can also create your automated machine learning experiments in Azure Machine Learning Studio.
+
+
+In this lab, you learn how to create, run, and explore automated machine learning experiments in the Azure Machine Learning Studio without a single line of code.
+As part of this lab, we will be using the Flight Delays data set that is enhanced with the weather data. Based on the enriched dataset,
+we will use automated machine learning to find the best performing classification model to predict if a particular flight will be delayed by 15 minutes or more.
+
+Conclusion :
+Without using pipelines in designer canvas ,we have got the charts 
