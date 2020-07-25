@@ -2,4 +2,4 @@ In this lab, we will be compare the performance of two binary classifiers:
 Two-Class Boosted Decision Tree and Two-Class Logistic Regression for predicting customer churn. 
 The goal is to run an expensive marketing campaign for high risk customers; thus,
 the precision metric is going to be key in evaluating performance of these two algorithms. 
-We will do all of this from the Azure Machine Learning designer without writing a single line of code.
+
