@@ -1,0 +1,3 @@
+In this lab, we will be using the Weather Dataset that has weather data for 66 different airports in the USA from April to October 2013. 
+We will cluster the dataset into 5 distinct clusters based on key weather metrics, such as visibility, temperature, dew point, wind speed etc.
+The goal is to group airports with similar weather conditions. 
