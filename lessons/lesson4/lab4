@@ -1,0 +1,4 @@
+In this lab, we compared the performance of two regression algorithms: 
+Boosted Decision Tree Regression and Neural Net Regression for predicting automobile prices.
+Conclusion:
+Boosted Decision Tree Regression outperforms Neural Net Regression for predicting automobile prices.
