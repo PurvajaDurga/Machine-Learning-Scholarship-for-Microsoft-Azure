@@ -1,0 +1,14 @@
+Although neural networks are widely known for use in deep learning and modeling complex problems such as image recognition, 
+they are easily adapted to regression problems. Any class of statistical models can be termed a neural network if they use adaptive
+weights and can approximate non-linear functions of their inputs. Thus neural network regression is suited to problems where a more traditional
+regression model cannot fit a solution.
+
+Neural network regression is a supervised learning method, and therefore requires a tagged dataset, which includes a label column. 
+Because a regression model predicts a numerical value, the label column must be a numerical data type.
+
+In this lab we will be using a subset of NYC Taxi & Limousine Commission - green taxi trip records available from Azure Open Datasets. The data is enriched with holiday and weather data. Based on the enriched dataset, we will configure the prebuilt Neural Network Regression module to create a regression model using a customizable neural network algorithm. We will train the model by providing the model and the NYC taxi dataset as an input to Train Model. 
+The trained model can then be used to predict NYC taxi fares.
+
+In this lab we will be using a subset of NYC Taxi & Limousine Commission - green taxi trip records available from Azure Open Datasets.
+The data is enriched with holiday and weather data. Based on the enriched dataset, we will configure the prebuilt Neural Network Regression module to create a regression model using a customizable neural network algorithm. We will train the model by providing the model and the NYC taxi dataset as an input to Train Model. The trained model can then be used to predict NYC taxi fares.
+We will do all of this from the Azure Machine Learning designer without writing a single line of code.
