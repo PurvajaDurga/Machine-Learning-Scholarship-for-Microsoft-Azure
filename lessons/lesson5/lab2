@@ -10,3 +10,15 @@ The Collaborative filtering approach, which uses only identifiers of the users a
 The main source of information about a user is the list the items they’ve rated and the similarity with other users who have rated the same items.
 The SVD recommender module in Azure Machine Learning designer is based on the Single Value Decomposition algorithm. It uses identifiers of the users and the items,
 and a matrix of ratings given by the users to the items. It’s a typical example of collaborative recommender.
+
+Conclusion:
+there are 2 approaches in recommender system, in the movie recommender we used the collaborative filtering approach, 
+which means the model learns from a collection of ratings made by users on a subset of a catalog of movies.
+ the IMDB Movie Titles dataset is joined with the Movie Ratings dataset(from users rating).
+so we predicted how would a user rate to unseen movie from this data
+we trained the model with users previous history of rating. and then the model predicts expectated rating for this particular user for a movie.
+
+Explanation:
+yes for same userID, but for new movie that he hasn't rated, it will predict possible rating for that userId, 
+for instance suppose a user rated comedy and action movie with high rating,
+so there is a high chance this user can like movie that has action and comedy in it
