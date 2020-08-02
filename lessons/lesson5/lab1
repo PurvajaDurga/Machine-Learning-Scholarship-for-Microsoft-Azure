@@ -14,14 +14,3 @@ The data is enriched with holiday and weather data. Based on the enriched datase
 We will do all of this from the Azure Machine Learning designer without writing a single line of code.
 
 
-Conclusion:
-there are 2 approaches in recommender system, in the movie recommender we used the collaborative filtering approach, 
-which means the model learns from a collection of ratings made by users on a subset of a catalog of movies.
- the IMDB Movie Titles dataset is joined with the Movie Ratings dataset(from users rating).
-so we predicted how would a user rate to unseen movie from this data
-we trained the model with users previous history of rating. and then the model predicts expectated rating for this particular user for a movie.
-
-Explanation:
-yes for same userID, but for new movie that he hasn't rated, it will predict possible rating for that userId, 
-for instance suppose a user rated comedy and action movie with high rating,
-so there is a high chance this user can like movie that has action and comedy in it
