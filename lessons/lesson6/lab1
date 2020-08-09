@@ -1,0 +1,22 @@
+Machine learning requires several tools to prepare data, and train and deploy models. 
+Most of the work usually takes place within web-based, interactive notebooks, such as Jupyter notebooks. Although notebooks are lightweight and easily run in a web browser,
+you still need a server to to host them.
+
+
+So, the setup process for most users is to install several applications and libraries on a machine, configure the environment settings, 
+then loaed any additional resources to begin working within notebooks or integrated development environments (IDEs).
+All this setup takes time, and there is sometimes a fair amount of troubleshooting involved to make sure you have the right combination 
+of software versions that are compatible with one another.
+
+What if you could use a ready-made environment that is pre-optimized for your machine learning development?
+
+Azure Machine Learning compute instance provides this type of environment for you, and is fully managed, meaning you don’t have to worry about
+setup and applying patches and updates to the underlying virtual machine. Plus, since it is cloud-based, you can run it from anywhere and from any machine. 
+All you need to do is specify the type of virtual machine, including GPUs and I/O-optimized options, then you have what you need to start working.
+
+The managed services, such as computer instance and compute cluster, can be used as a training compute target to scale out training resources to handle larger data sets.
+When you are ready to run your experiments and build your models, you need to specify a compute target. Compute targets are compute resources where you run your experiments 
+or host your service deployment. The target may be your local machine or a cloud-based resource. This is another example of where managed services like compute instance and
+computer cluster really shine.
+
+A managed compute resource is created and managed by Azure Machine Learning. This compute is optimized for machine learning workloads.
