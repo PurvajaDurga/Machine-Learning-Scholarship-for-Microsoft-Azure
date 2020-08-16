@@ -1,0 +1,21 @@
+D35 of #50daysofudacity
+Completed Lesson6
+MANAGED SERVICES FOR ML, I've learned to manage to compute resources, model training and evaluation processed, and operational environment. I've also experienced the use of the Azure Machine Learning SDK for Python to program the Azure Machine Learning managed services.
+Computing resources
+Training compute
+Inferencing compute
+Notebook environments
+Modeling process
+Basic modeling
+How parts of the modeling process interact when used together
+More advanced aspects of the modeling process, like automation via pipelines and end-to-end integrated processes (also known as DevOps for Machine Learning or simply, MLOps)
+How to move the results of your modeling work to production environments and make them operational
+Volunteered #l2_intro_machine_learning for two slots with @Rattana
+Created Word Search Quiz
+https://microsoftmlchallenge.slack.com/archives/C016D7V6YSZ/p1597546525350200?thread_ts=1597546525.350200
+Quiz on lesson2
+https://microsoftmlchallenge.slack.com/archives/C016D7V6YSZ/p1597574780012100
+Airtable is updated with 240+ Resouces in #lecture_notes
+https://airtable.com/shrLU1sisHM0TFPLP
+Created Riddles in #lecture_notes
+https://microsoftmlchallenge.slack.com/archives/C0170S397U7/p1597570613228000
